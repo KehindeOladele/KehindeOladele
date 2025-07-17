@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kehinde</h1>
 <h3 align="center">A passionate data analyst from Nigeria</h3>
 
-- 🔭 I’m currently working on [Nigerian Health Data](https://github.com/KehindeOladele/KehindeOladele)
+- 🔭 I’m currently working on an [AI Powered USSD Based Diabetes Prediction Tool](https://github.com/KehindeOladele/AI_Powered_USSD_Based_Diabetes_Prediction_Tool)
 
 - 🌱 I’m currently learning **SQL, Python and R**
 
