@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kehinde</h1>
 <h3 align="center">A passionate data analyst from Nigeria</h3>
 
-- 🔭 I’m currently working on an [AI Powered USSD Based Diabetes Prediction Tool](https://github.com/KehindeOladele/AI_Powered_USSD_Based_Diabetes_Prediction_Tool)
+- 🔭 I’m currently working on improving my skills in data science.I will upload more projects as they are being done.
 
-- 🌱 I’m currently learning **SQL, Python and R**
+- 🌱 I’m currently learning **Data Science and Machine Learning**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KehindeOladele/](https://github.com/KehindeOladele/)
 
