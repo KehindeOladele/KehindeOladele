@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kehinde</h1>
 <h3 align="center">A passionate data analyst from Nigeria</h3>
 
-- 🔭 I’m currently working on improving my skills in data science.I will upload more projects as they are being done.
+- 🔭 I’m currently working on improving my skills in data science. I will upload more projects as they are being done.
 
 - 🌱 I’m currently learning **Data Science and Machine Learning**
 
